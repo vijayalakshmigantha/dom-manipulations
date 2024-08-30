@@ -1,0 +1,29 @@
+.dark-background{
+    background-color: black;
+    
+    width:100vw;
+}
+.bulb-img{
+    width: 150px;
+}
+.cat-img{
+    height:180px;
+    width:200px;
+}
+.card-container{
+    height:150px;
+    width:300px;
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+.button{
+    border-radius:10px;
+    border-color: black;
+    width:70px;
+    font-size: 20px;
+    font-weight:bold;
+    
+}
+.heading{
+    font-family: "Roboto";
+}
